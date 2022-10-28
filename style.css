@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style: none;
+}
+/* Second Color : rgb(85, 41, 220); */
+body {
+    
+    background-color: #070e5b ;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    /*background-color: red; */
+    background-color: aqua;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRasOICRC_6iN6K6IQiapRLMx-UE4U72jRD5w&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+    margin: 100px auto 20px;
+}
+.title {
+    color: white;
+    
+}
+.user-input {
+    margin-right: -120px;
+    height: 30px;
+    width: 300px;
+    margin: 10px 0;
+    padding: 0 19px 0 5px;
+    outline: none;
+
+}
+.add-button {
+    margin-left: -12px;
+    width: 20px;
+    height: 30px;
+    background-color: white;
+    
+}
+
+.add-button:hover {
+    background-color: tomato;
+}
+
+ul {
+    text-align: left;
+    
+}
+li {
+    width: 314px;
+    margin: 5px auto;
+    height: 30px;
+    padding: 5px;
+}
+
+li:hover {
+    background-color: rgb(240, 20, 170);
+    text-decoration: line-through 2px solid yellow;
+    
+}
+
+.border-radius-5 {
+    border-radius: 5px;
+}
+
+.background-w {
+    background-color: white;
+    color: #333;
+}
+
+.checkbox {   
+
+}
