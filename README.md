@@ -9,9 +9,5 @@ That is a formular app allow the user to how fill a formular.
 - GIT
 
 # Live Demo:
-[Super App Formular] (https://gorgeous-klepon-84afa8.netlify.app)
+[Super App Formular] https://todo-html-css.netlify.app
 
-```
-
-```
-# Screenshot: 
